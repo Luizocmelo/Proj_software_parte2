@@ -1,5 +1,6 @@
 # Disciplina: Projeto de Software - Prof: Baldoino Fonseca
-
+###ALUNO: Luiz Antonio Omena Cabral de Melo
+-------------------------------------------------------------------------------
 ### Sistema de Folha de Pagamento Empresarial
 
 O projeto é implementar um sistema de folha de pagamento. O sistema consiste no
