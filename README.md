@@ -1,5 +1,5 @@
 # Disciplina: Projeto de Software - Prof: Baldoino Fonseca
-###ALUNO: Luiz Antonio Omena Cabral de Melo
+ALUNO: Luiz Antonio Omena Cabral de Melo
 -------------------------------------------------------------------------------
 ### Sistema de Folha de Pagamento Empresarial
 
