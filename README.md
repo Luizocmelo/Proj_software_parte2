@@ -32,7 +32,7 @@ O sistema receberá a data até a qual o pagamento deve ser feito e calculará o
 -------------------------------------------------------------------------------
 ### Code Small
 
-•1. Large Class
+•1. Large Class:
 Foi segmentado as classes que possuiam excesso de funções e atributos. A classe 
 Employee possuia 10 atributos, alem das varias funções, com a segmentação, passou a 
 possuir apenas 4 atributos e herdando mais 3 da classe BankData, diminuindo a 
@@ -47,12 +47,12 @@ dados, evitando assim reescrever o codigo para varias funções e classes que he
 os atributos de Employee.
 
 
-•3 .Shotgun Surgery
+•3 Shotgun Surgery:
 Tambem voltado para mudança na classe emplooyye, como ele concentrava muitos atributos,
 todo e qualquer alteração gerava uma grande serie de modificações no codigo, com a redução
 da mesmo, foi-se minimizado essa necessidade.
 
-•4. Long Method
+•4 Long Method:
 Houve a dinimuição de rotinas condicionais IF_ELSE nas classes, devido a diminuição
 de atributos nas classes, essas rotinas foram segmentadas em outras classes, 
 tornando assim o codigo mais limpo e legivel.
